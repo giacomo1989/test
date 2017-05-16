@@ -2,6 +2,5 @@
   "name": "API.AI demonstration Webhook",
   "description": "API.AI demostration Webhook",
   "repository": "https://github.com/giacomo1989/test",
-  "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "natural language"]
 }
